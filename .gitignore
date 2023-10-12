@@ -1,9 +1,9 @@
-# Build and Release Folders
+terraform apply -var-file=./conf/00_hashicups.tfvars # Build and Release Folders
 bin-debug/
 bin-release/
 [Oo]bj/
 [Bb]in/
-
+cd learn-consul-get-started-vms/self-managed/infrastructure/awsgit clone https://github.com/hashicorp-education/learn-consul-get-started-vms
 # Other files and folders
 .settings/
 
