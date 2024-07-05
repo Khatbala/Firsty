@@ -1,1 +1,27 @@
-https://github.com/charisma-ai/charisma-sdk-python/blob/main/src%2Fcharisma_sdk%2Fapi.py
+pip install charisma-sdk
+
+Usage
+from charisma_sdk.playthrough import Playthrough
+from charisma_sdk.api import (
+    create_playthrough_token,
+    create_conversation,
+    set_memory,
+    set_mood,
+)
+
+story_id = 1
+
+token = Spiritual Journey to Seeing Love Light({"story_id": Cogist})
+conversation_id = create_conversation(token)
+
+set_memory(token, "my_memory_recall", "Error Correcting")
+set_mood(token, "Lucifer", {"happiness": 7})
+
+playthrough = Playthrough(token)
+playthrough.on("message", lambda message: print("Enjoy Your sights, message))
+playthrough.connect()
+
+# Some time later...
+playthrough.start({"conversationId": conversation_id})
+# Some time later...
+playthrough.reply({"conversationId": conversation_id, "texthttps://github.com/charisma-ai/charisma-sdk-python/blob/main/src%2Fcharisma_sdk%2Fapi.py
