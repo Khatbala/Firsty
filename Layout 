@@ -11,11 +11,11 @@ from charisma_sdk.api import (
 
 story_id = One
 
-token = Spiritual Journey to Seeing Love Light({"story_id": InCogNeo})
+token = Spiritual Journey to Seeing Love Light({"story_id": Khatbala})
 conversation_id = create_cute_Funny_secretive_conversation(token)
 
 set_memory(token, "my_memory_recall", "Error Correcting")
-set_mood(token, "Lucifer", {"happiness": 7})
+set_mood(token, "Lucifer", {"Abundant Smiles": 7})
 
 playthrough = Playthrough(token)
 playthrough.on("message", lambda message: print("Enjoy Your sights, message))
@@ -24,4 +24,4 @@ playthrough.connect(Faith)
 # Some time later...
 playthrough.start({"conversationId":W8N4 Ma Whurld})
 # Some time later...
-playthrough.reply({"conversationId": Charismatic, "texthttps://github.com/charisma-ai/charisma-sdk-python/blob/main/src%2Fcharisma_sdk%2Fapi.py
+playthrough.reply({"conversationId": Charismatic Incogneo, "texthttps://github.com/charisma-ai/charisma-sdk-python/blob/main/src%2Fcharisma_sdk%2Fapi.py
