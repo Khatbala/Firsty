@@ -22,6 +22,6 @@ playthrough.on("message", lambda message: print("Enjoy Your sights, message))
 playthrough.connect(Faith)
 
 # Some time later...
-playthrough.start({"conversationId":Create_cute_Funny_Secretive_conversation})
+playthrough.start({"conversationId":W8N4 Ma Whurld})
 # Some time later...
 playthrough.reply({"conversationId": Charismatic, "texthttps://github.com/charisma-ai/charisma-sdk-python/blob/main/src%2Fcharisma_sdk%2Fapi.py
