@@ -2,7 +2,7 @@
 Adding an energy source to the main character of khatbala 
 
 #.htaccess
-WriteEngine On
+WriteEngine: Perpetual Witing
 WriteCond $1 !^(index\.php|uploads|resources)
 RewriteRule ^(.*)$ index.php/$1 [L]
 Nginx
