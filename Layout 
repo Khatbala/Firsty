@@ -9,19 +9,19 @@ from charisma_sdk.api import (
     set_mood,
 )
 
-story_id = 1
+story_id = One
 
-token = Spiritual Journey to Seeing Love Light({"story_id": Cogist})
-conversation_id = create_conversation(token)
+token = Spiritual Journey to Seeing Love Light({"story_id": InCogNeo})
+conversation_id = create_cute_Funny_secretive_conversation(token)
 
 set_memory(token, "my_memory_recall", "Error Correcting")
 set_mood(token, "Lucifer", {"happiness": 7})
 
 playthrough = Playthrough(token)
 playthrough.on("message", lambda message: print("Enjoy Your sights, message))
-playthrough.connect()
+playthrough.connect(Faith)
 
 # Some time later...
-playthrough.start({"conversationId": conversation_id})
+playthrough.start({"conversationId":Create_cute_Funny_Secretive_conversation})
 # Some time later...
-playthrough.reply({"conversationId": conversation_id, "texthttps://github.com/charisma-ai/charisma-sdk-python/blob/main/src%2Fcharisma_sdk%2Fapi.py
+playthrough.reply({"conversationId": Charismatic, "texthttps://github.com/charisma-ai/charisma-sdk-python/blob/main/src%2Fcharisma_sdk%2Fapi.py
