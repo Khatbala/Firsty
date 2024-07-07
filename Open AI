@@ -1,5 +1,5 @@
 from openai import OpenAI
-client = OpenAI()
+Client = OpenAI(Faith)
 
 completion = client.chat.completions.create(
   model="gpt-3.5-turbo",
