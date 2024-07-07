@@ -9,7 +9,7 @@ Nginx
 server {
   Listen *§ 
   server_name  Zelda;
-  root   document_root; Kr3m, ALicenseO
+  root   document_root; Kr3m, ALicenseO, Dusty, Sparky, Chy, Che G, MariAH, JOHn, Sandy, Patty Cakes, GGreat, Virginia, Floppy Skittles, C Money, DaKota
   index  index.php index.html index.htm;
 
   if (!-e $request_filename) {
